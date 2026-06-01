@@ -4,6 +4,9 @@
 
 This is a library for the Winsen MH-T7042A infrared CH4 gas sensor
 
+## Dependencies
+ * [Adafruit Unified Sensor Driver](https://github.com/adafruit/Adafruit_Sensor)
+
 ## About this Driver
 
 MIT license, check LICENSE for more information
